@@ -1,9 +1,0 @@
-House 2
-Betadine Village Boy and Dog playing
-
-Scene 1 :             Duration : 01 To 84    frame     
-Scene 2 :            Duration : 95 to 178   frame
-Scene 4 :            Duration : 190 To 259  frame      
-Scene 5 :            Duration : 281 To 371  frame
-Scene 6 :            Duration : 394 To  514 frame
-scenc 7 :            Duration : 557 To  600 frame
