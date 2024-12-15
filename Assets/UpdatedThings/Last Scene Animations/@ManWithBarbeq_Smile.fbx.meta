@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: a9f6029c06cc1b345a09ec739db9845f
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low41
+    second: {fileID: 2100000, guid: f6b1e4d2a7fdd6f40b2751e900f13a8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low42
+    second: {fileID: 2100000, guid: a1ed0e39ddfcad647ba3c500b64f79a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low43
+    second: {fileID: 2100000, guid: de5538c515c2adf469655bcb1fb64ad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low44
+    second: {fileID: 2100000, guid: c274e70f0769bc14082ea1102f1ae961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low45
+    second: {fileID: 2100000, guid: 78684ba80c4cb0c4b84a51e970c5496f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low46
+    second: {fileID: 2100000, guid: 55cfa7b85ff0e594298af56cc241c8b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low47
+    second: {fileID: 2100000, guid: db4d88249aef93946bdedb115cdfb901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low48
+    second: {fileID: 2100000, guid: f208e43d9cee21044b885670df3cbe01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low49
+    second: {fileID: 2100000, guid: 504376574c355c4468d57c0c425ac692, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low50
+    second: {fileID: 2100000, guid: d76c6e0978032554987f285ce4ece58e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low51
+    second: {fileID: 2100000, guid: 7fc511df188461d44bf6cf0ad86785fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low52
+    second: {fileID: 2100000, guid: 0a05c28b605073f4e8308092dc2c55eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low53
+    second: {fileID: 2100000, guid: 391d638a6f3378c489ba5e6210f8b3cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low54
+    second: {fileID: 2100000, guid: b273e16fecf8840419f58c19fb329d34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low55
+    second: {fileID: 2100000, guid: 044fea7d22ad54d4d96d121c4945bb29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low56
+    second: {fileID: 2100000, guid: 915be9d9524d286419623dd1ad99de9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low57
+    second: {fileID: 2100000, guid: c051e0d4b31bd444d923b47aab9bdda7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low58
+    second: {fileID: 2100000, guid: 4070c7a14c1fdc2478c2201a9e37d3db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low59
+    second: {fileID: 2100000, guid: 0a00400cdcef4c5418594b2e854ccd2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low60
+    second: {fileID: 2100000, guid: fd9e417ede3c8b24e8a35aa25802a8eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low61
+    second: {fileID: 2100000, guid: 44c775f4b37f21947bffb43a9f7a594b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low62
+    second: {fileID: 2100000, guid: 4fa5bde307ad36148a749955e08c7b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low63
+    second: {fileID: 2100000, guid: d64fccab454813f49a8b7451892da24c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low64
+    second: {fileID: 2100000, guid: ae0bd00552d6c154ca42b0ef00c6a787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low65
+    second: {fileID: 2100000, guid: e7f33dad2cc19f547ac8b810271f9b02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low66
+    second: {fileID: 2100000, guid: 469f6f6cc6007ae4db8ff8d4995e4cd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low67
+    second: {fileID: 2100000, guid: 2708a792e4e039347af201f83101ed7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low68
+    second: {fileID: 2100000, guid: 7b6803b89dc468f4d934c8f7048b3d10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low69
+    second: {fileID: 2100000, guid: 2547625e164967f4d9564a864f94b154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low70
+    second: {fileID: 2100000, guid: 1fc261fef7524cd408c3ba2e3dcd2623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low71
+    second: {fileID: 2100000, guid: b231fd06385d2bc4395c461b000bf155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low72
+    second: {fileID: 2100000, guid: 17f558abd916303448b7571f6411dfae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low73
+    second: {fileID: 2100000, guid: b239707c77b9bf241907477ed02988d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low74
+    second: {fileID: 2100000, guid: da4dbd49131eab2439c164a6ce41114a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low75
+    second: {fileID: 2100000, guid: 2c0ecf425a240794b874544e34e0e755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low76
+    second: {fileID: 2100000, guid: 84229a7a7d6b381458e9bab0b702ab41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low77
+    second: {fileID: 2100000, guid: 18fb9718dd585eb40a0e66a70b4aad52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low78
+    second: {fileID: 2100000, guid: 02b7dbc1b4fb3e14f9245a5d12ea7c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low79
+    second: {fileID: 2100000, guid: 36afdba19d652eb4dad0fe2cc0504f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low80
+    second: {fileID: 2100000, guid: 0700273755702874bb836e157a7ed157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manrig_Man_1_Blend_Pant_Low81
+    second: {fileID: 2100000, guid: 146753ff21c72034ba503c5f25520a8a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

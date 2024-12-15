@@ -1,0 +1,11 @@
+House 3
+Betadine Village Girl Jogging
+
+
+Scene 1 :  village Girl_jogging                             Duration : 01 To 77   frame     
+Scene 2 :  Girl get blisters in the legs                    Duration : 77 to 153   frame
+Scene 3 :  jogging _girl getting_injury                     Duration : 153 To 202  frame      
+Scene 4 :  Girl walk to the home main door                  Duration : 210 To 314  frame
+Scene 5 :  Inside home Girl searches for medicine           Duration : 320 To 394 frame
+scenc 6 :  Girl Blister gets cured                          Duration :400 To  434 frame
+                                          
